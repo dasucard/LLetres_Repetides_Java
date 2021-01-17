@@ -1,4 +1,4 @@
-package LVL2_Exercici2;
+package LVL2_Exercici2_Numeros;
 
 import java.util.*;
 

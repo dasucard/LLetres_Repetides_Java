@@ -1,4 +1,4 @@
-package LVL3_Exercic3;
+package LVL2_Exercici2_asteriscs;
 
 import java.util.*;
 
